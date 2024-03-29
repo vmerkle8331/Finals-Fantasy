@@ -1,0 +1,17 @@
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\bin\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.exe
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\bin\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.deps.json
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\bin\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.runtimeconfig.json
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\bin\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.runtimeconfig.dev.json
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\bin\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.dll
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\bin\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.pdb
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\obj\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.csproj.AssemblyReference.cache
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\obj\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.Properties.Resources.resources
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\obj\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.csproj.GenerateResource.cache
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\obj\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\obj\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.AssemblyInfoInputs.cache
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\obj\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.AssemblyInfo.cs
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\obj\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.csproj.CoreCompileInputs.cache
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\obj\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.dll
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\obj\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.pdb
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\obj\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.genruntimeconfig.cache
+C:\Users\vickm\source\repos\MerkleFinalsFantasyPractice\MerkleFinalsFantasyPractice\obj\Debug\netcoreapp3.1\MerkleFinalsFantasyPractice.GameScreen.resources

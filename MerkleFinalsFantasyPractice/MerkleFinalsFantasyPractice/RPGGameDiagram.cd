@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MerkleFinalsFantasyPractice.GameScreen" Collapsed="true">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAQEAAAAQBAAAA=</HashCode>
+      <FileName>GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MerkleFinalsFantasyPractice.Program" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MerkleFinalsFantasyPractice.Actor" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQIAAAABEAAAARAAAABAQBAIBEARAAQAAABgAAQCI=</HashCode>
+      <FileName>Actor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MerkleFinalsFantasyPractice.Heroes" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MerkleFinalsFantasyPractice.Enemies" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MerkleFinalsFantasyPractice.Fighter" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MerkleFinalsFantasyPractice.Mage" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MerkleFinalsFantasyPractice.Cleric" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cleric.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MerkleFinalsFantasyPractice.Dragon" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dragon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MerkleFinalsFantasyPractice.Bandit" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bandit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MerkleFinalsFantasyPractice.Ogre" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ogre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MerkleFinalsFantasyPractice.GameLogic" Collapsed="true">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIADAAAAAACAAAAAQAAAAIAAABAAAAAAEgAAA=</HashCode>
+      <FileName>GameLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MerkleFinalsFantasyPractice.MerkleFinalsFantasyPractice" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>MerkleFinalsFantasyPractice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
